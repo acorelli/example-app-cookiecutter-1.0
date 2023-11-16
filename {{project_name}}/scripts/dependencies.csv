@@ -1,0 +1,6 @@
+Name, Branch, Repo URL
+----, ------, --------
+doxygen, 1.8.14, {{org_repo_prefix_url}}/doxygen.git
+graphviz, 1.02, {{org_repo_prefix_url}}/graphviz.git
+NSIS, 3.01, {{org_repo_prefix_url}}/nsis.git
+qt, 5.12.3, {{org_repo_prefix_url}}/qt.git
